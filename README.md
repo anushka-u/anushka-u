@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka.</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer </h3>
 <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" 
      alt="Pinterest Image" 
      align="right" 
