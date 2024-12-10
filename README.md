@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anushka.</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://i.pinimg.com/736x/2d/8e/d1/2d8ed1d9a76107ede24fa23e0c68ce99.jpg" alt="Pinterest Image" align="right" width="300">
+<img src="https://avatars.githubusercontent.com/u/136769736?s=400&u=36e8ca3c47052f2e917861ccd5b9150f17e4cfc9&v=4" 
+     alt="Pinterest Image" 
+     align="right" 
+     width="300" 
+     style="border-radius: 50%; overflow: hidden;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka-u&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-u" /> </p>
 
 - 🌱 I’m currently learning **Spring WebFlux**
@@ -9,7 +13,6 @@
 
 - 📫 How to reach me **anushkau032@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
