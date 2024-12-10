@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka.</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img src="https://i.pinimg.com/736x/cc/54/92/cc5492a6ff4a10668c579b43076c2355.jpg" alt="Pinterest Image" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka-u&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-u" /> </p>
 
 - 🌱 I’m currently learning **Spring WebFlux**
