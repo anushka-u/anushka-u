@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka.</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="https://avatars.githubusercontent.com/u/136769736?s=400&u=36e8ca3c47052f2e917861ccd5b9150f17e4cfc9&v=4" 
+<img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" 
      alt="Pinterest Image" 
      align="right" 
      width="300" 
