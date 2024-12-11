@@ -7,8 +7,9 @@
      style="border-radius: 50%; overflow: hidden;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka-u&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-u" /> </p>
 
-- 🌱 I’m currently learning **Spring WebFlux**
-
+- 🌱 I’m currently learning **SpringBoot, Microservices, AWS**
+- 🤓 Ask me about **Java.**
+- 👩‍💻 My Projects are available at **https://github.com/anushka-u?tab=repositories**
 - 👯 I’m looking to collaborate on **Full-Stack Development Projects**
 
 - 📫 How to reach me **anushkau032@gmail.com**
