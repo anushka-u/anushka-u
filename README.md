@@ -26,4 +26,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-u&" alt="anushka-u" /></p>
 
 <img src="https://raw.githubusercontent.com/anushka-u/output/snake.svg" alt="Snake animation" />
-
