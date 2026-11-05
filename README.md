@@ -1,77 +1,75 @@
-# Hi, I'm Anushka
+# Hi 👋, I'm Anushka!
 
-<h3 align="center">Senior Software Engineer | Java Backend Developer</h3>
+<h3 align="center">💻 Senior Software Engineer | Java Backend Developer</h3>
 
-<p align="center">
-  Building scalable backend applications, RESTful APIs, and reliable software systems.
-</p>
+<h3 align="center">Building scalable backend applications and reliable software systems.</h3>
 
 <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" alt="Coding animation" align="right" width="280"/>
 
-### About Me
+### 👩‍💻 About Me
 
-- Backend engineer specializing in **Java and Spring Boot**.
-- Experienced in developing **REST APIs and microservices-based applications**.
-- Interested in backend architecture, system design, clean code, and scalable applications.
-- Working with enterprise development tools and cloud technologies.
-- Exploring practical applications of AI and LLM-powered development tools.
-- Open to collaborating on meaningful software engineering projects.
+- 💼 Senior Software Engineer specializing in **Java Backend Development**.
+- 🚀 Experienced in building **REST APIs and Microservices-based applications**.
+- 🏗️ Interested in **System Design, Software Architecture, and Clean Code**.
+- ☁️ Working with cloud technologies and enterprise development tools.
+- 🤖 Interested in **AI Engineering, LLMs, and intelligent developer tools**.
+- 👯 Open to collaborating on impactful software engineering projects.
+- 📫 Reach me at **[anushkau032@gmail.com](mailto:anushkau032@gmail.com)**.
 
-### Technical Skills
+### 🛠️ Languages and Tools
 
-**Languages**
+**💻 Programming Languages**
 
 Java | Python | SQL
 
-**Backend Development**
+**⚙️ Backend Development**
 
 Spring Boot | Spring Framework | REST APIs | Microservices | Hibernate | JPA | JDBC
 
-**Databases**
+**🗄️ Databases**
 
 MySQL | MongoDB | Oracle SQL | PL/SQL
 
-**Cloud & DevOps**
+**☁️ Cloud & DevOps**
 
 AWS | Docker | Maven | Jenkins | Git
 
-**Tools & Technologies**
+**🔧 Tools & Platforms**
 
 GitHub | Jira | SonarQube | Nexus | Apache Tomcat
 
-**Core Computer Science**
+**🧠 Core Computer Science**
 
-Data Structures & Algorithms | Object-Oriented Programming | SOLID Principles | Design Patterns | Low-Level Design | High-Level Design
+Data Structures & Algorithms | OOP | SOLID Principles | Design Patterns | LLD | HLD
 
-### Featured Areas
+### 🚀 Areas of Interest
 
-- **Backend Engineering:** Java, Spring Boot, REST APIs, Microservices.
-- **System Design:** LLD, HLD, architecture and design patterns.
-- **Problem Solving:** DSA and algorithmic problem-solving.
-- **AI Engineering:** LLMs, Python-based AI applications and intelligent developer tools.
+- 🔹 Backend Engineering
+- 🔹 System Design & Distributed Systems
+- 🔹 Data Structures & Algorithms
+- 🔹 AI Engineering & Large Language Models
+- 🔹 Software Architecture & Design Patterns
 
-### GitHub Projects
+### 📂 My Projects
 
-Explore my repositories and implementations:
+👩‍💻 Explore my projects and implementations:
 
-<a href="https://github.com/anushka-u?tab=repositories">View All Repositories</a>
+➡️ [GitHub Repositories](https://github.com/anushka-u?tab=repositories)
 
-### Connect With Me
+### 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:anushkau032@gmail.com">Email</a> |
-  <a href="https://github.com/anushka-u">GitHub</a>
+  <a href="mailto:anushkau032@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/anushka-u">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>Building, improving, and engineering better software.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anushka-u&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka-u&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
@@ -86,5 +84,9 @@ Explore my repositories and implementations:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushka-u/output/snake.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/anushka-u/output/snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+<p align="center">
+  ✨ <i>Code. Build. Learn. Repeat.</i> ✨
 </p>
