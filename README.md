@@ -1,42 +1,90 @@
-<h1 align="center">Hi 👋, I'm Anushka.</h1>
-<h3 align="center">A passionate Software developer</h3>
+# Hi, I'm Anushka
 
-<img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" 
-     alt="Person typing on a computer" 
-     align="right" 
-     width="300" 
-     style="border-radius: 50%; overflow: hidden;">
+<h3 align="center">Senior Software Engineer | Java Backend Developer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anushka-u&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
+<p align="center">
+  Building scalable backend applications, RESTful APIs, and reliable software systems.
 </p>
 
-<ul>
-  <li>🌱 I’m currently learning <strong>SpringBoot, Microservices, AWS</strong></li>
-  <li>🤓 Ask me about <strong>Java.</strong></li>
-  <li>👩‍💻 My Projects are available at <a href="https://github.com/anushka-u?tab=repositories"><strong>GitHub</strong></a></li>
-  <li>👯 I’m looking to collaborate on <strong>Full-Stack Development Projects</strong></li>
-  <li>📫 How to reach me <a href="mailto:anushkau032@gmail.com"><strong>anushkau032@gmail.com</strong></a></li>
-</ul>
+<img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" alt="Coding animation" align="right" width="280"/>
 
-<h3 align="left">Languages and Tools:</h3>
+### About Me
+
+- Backend engineer specializing in **Java and Spring Boot**.
+- Experienced in developing **REST APIs and microservices-based applications**.
+- Interested in backend architecture, system design, clean code, and scalable applications.
+- Working with enterprise development tools and cloud technologies.
+- Exploring practical applications of AI and LLM-powered development tools.
+- Open to collaborating on meaningful software engineering projects.
+
+### Technical Skills
+
+**Languages**
+
+Java | Python | SQL
+
+**Backend Development**
+
+Spring Boot | Spring Framework | REST APIs | Microservices | Hibernate | JPA | JDBC
+
+**Databases**
+
+MySQL | MongoDB | Oracle SQL | PL/SQL
+
+**Cloud & DevOps**
+
+AWS | Docker | Maven | Jenkins | Git
+
+**Tools & Technologies**
+
+GitHub | Jira | SonarQube | Nexus | Apache Tomcat
+
+**Core Computer Science**
+
+Data Structures & Algorithms | Object-Oriented Programming | SOLID Principles | Design Patterns | Low-Level Design | High-Level Design
+
+### Featured Areas
+
+- **Backend Engineering:** Java, Spring Boot, REST APIs, Microservices.
+- **System Design:** LLD, HLD, architecture and design patterns.
+- **Problem Solving:** DSA and algorithmic problem-solving.
+- **AI Engineering:** LLMs, Python-based AI applications and intelligent developer tools.
+
+### GitHub Projects
+
+Explore my repositories and implementations:
+
+<a href="https://github.com/anushka-u?tab=repositories">View All Repositories</a>
+
+### Connect With Me
+
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS logo" />
-  </a>
-  <!-- Add more languages and tools as needed -->
+  <a href="mailto:anushkau032@gmail.com">Email</a> |
+  <a href="https://github.com/anushka-u">GitHub</a>
 </p>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka-u&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
+---
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka-u&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <i>Building, improving, and engineering better software.</i>
+</p>
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-u&" alt="GitHub Streak Stats" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anushka-u&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/anushka-u/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka-u&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushka-u&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-u" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anushka-u/output/snake.svg" alt="Contribution Snake Animation"/>
+</p>
