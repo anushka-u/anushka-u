@@ -30,25 +30,30 @@ Spring Boot | Spring Framework | REST APIs | Microservices | Hibernate | JPA | J
 
 MySQL | MongoDB | Oracle SQL | PL/SQL
 
+**📨 Messaging & Event Streaming**
+
+Apache Kafka
+
 **☁️ Cloud & DevOps**
 
-AWS | Docker | Maven | Jenkins | Git
+AWS | Docker | Maven | Jenkins | Git | Nexus
 
-**🔧 Tools & Platforms**
+**🔧 IDEs & Development Tools**
 
-GitHub | Jira | SonarQube | Nexus | Apache Tomcat
+IntelliJ IDEA | Visual Studio Code | PyCharm | Eclipse | Postman | Swagger | Jira | SonarQube | Apache Tomcat
 
 **🧠 Core Computer Science**
 
-Data Structures & Algorithms | OOP | SOLID Principles | Design Patterns | LLD | HLD
+Data Structures & Algorithms | OOP | SOLID Principles | Design Patterns | LLD | HLD | Distributed Systems
 
 ### 🚀 Areas of Interest
 
 - 🔹 Backend Engineering
-- 🔹 System Design & Distributed Systems
+- 🔹 Microservices & Distributed Systems
+- 🔹 System Design & Architecture
 - 🔹 Data Structures & Algorithms
 - 🔹 AI Engineering & Large Language Models
-- 🔹 Software Architecture & Design Patterns
+- 🔹 Software Design Patterns
 
 ### 📂 My Projects
 
